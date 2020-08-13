@@ -1,0 +1,756 @@
+
+Mar 05, 2020 17:53:43.13 NEW SESSION
+Mar 05, 2020 17:53:43.13 [0305/175343.005:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+
+Mar 06, 2020 12:36:00.85 NEW SESSION
+Mar 06, 2020 12:36:00.85 [8624:32680:0306/123600.831:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 12:36:00.85 [8624:32680:0306/123600.831:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 12:36:18.11 [8624:26648:0306/123618.111:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Mar 06, 2020 12:36:18.97 [8624:26648:0306/123618.971:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Mar 06, 2020 12:36:23.32 [8624:32680:0306/123623.322:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 12:36:27.03 [8624:32680:0306/123627.029:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 12:37:12.63 [8624:32680:0306/123712.636:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 12:37:19.28 [8624:32680:0306/123719.284:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 12:39:04.29 [8624:32680:0306/123904.293:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 12:39:07.53 [8624:32680:0306/123907.538:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 12:41:50.29 [8624:32680:0306/124150.294:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 12:42:48.79 [8624:32680:0306/124248.791:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 12:49:16.59 [8624:32680:0306/124916.594:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 12:50:25.56 [8624:26648:0306/125025.560:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 12:50:25.93 [8624:32680:0306/125025.934:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 12:50:49.68 [8624:26648:0306/125049.680:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 12:51:46.65 [8624:26648:0306/125146.648:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 12:53:12.92 [8624:26648:0306/125312.924:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 12:56:11.47 [8624:26648:0306/125611.476:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 12:59:16.60 [8624:32680:0306/125916.603:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 13:00:25.94 [8624:32680:0306/130025.949:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 13:01:41.10 [8624:26648:0306/130141.108:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 13:09:16.63 [8624:32680:0306/130916.630:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 13:10:25.95 [8624:32680:0306/131025.953:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 13:11:41.23 [8624:26648:0306/131141.230:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 13:19:16.64 [8624:32680:0306/131916.647:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 13:20:25.95 [8624:32680:0306/132025.959:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 13:21:41.24 [8624:26648:0306/132141.249:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 13:29:16.67 [8624:32680:0306/132916.670:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 13:30:25.97 [8624:32680:0306/133025.977:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 13:31:41.25 [8624:26648:0306/133141.256:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 14:33:14.59 [8624:26648:0306/143314.593:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 14:33:14.59 [8624:32680:0306/143314.593:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 14:33:17.56 [8624:32680:0306/143317.569:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 15:44:40.88 [8624:26648:0306/154440.888:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 15:44:40.88 [8624:32680:0306/154440.888:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 15:44:40.90 [8624:32680:0306/154440.904:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 15:54:40.90 [8624:26648:0306/155440.899:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 15:54:40.90 [8624:32680:0306/155440.899:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 15:54:40.92 [8624:32680:0306/155440.928:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 16:04:40.90 [8624:26648:0306/160440.906:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 16:04:40.90 [8624:32680:0306/160440.906:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 16:04:40.93 [8624:32680:0306/160440.937:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 16:14:40.92 [8624:32680:0306/161440.919:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 16:14:40.92 [8624:26648:0306/161440.920:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 16:14:40.96 [8624:32680:0306/161440.960:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 16:24:40.92 [8624:26648:0306/162440.927:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 16:24:40.92 [8624:32680:0306/162440.927:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 16:24:40.97 [8624:32680:0306/162440.974:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 16:34:40.93 [8624:26648:0306/163440.935:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 16:34:40.93 [8624:32680:0306/163440.935:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 16:34:40.98 [8624:32680:0306/163440.983:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 16:44:40.98 [8624:32680:0306/164440.974:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 16:44:40.98 [8624:32680:0306/164440.989:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 16:44:40.98 [8624:26648:0306/164440.989:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 16:54:42.60 [8624:32680:0306/165442.604:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 16:54:42.68 [8624:32680:0306/165442.604:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 16:54:43.97 [8624:26648:0306/165443.978:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 17:04:42.62 [8624:32680:0306/170442.627:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 17:04:42.62 [8624:32680:0306/170442.627:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 17:04:44.00 [8624:26648:0306/170444.001:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 17:14:42.65 [8624:32680:0306/171442.640:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 17:14:42.65 [8624:32680:0306/171442.656:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 17:14:44.01 [8624:26648:0306/171444.015:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 17:30:19.81 [8624:26648:0306/173019.814:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 17:30:19.81 [8624:32680:0306/173019.814:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 17:30:22.91 [8624:32680:0306/173022.917:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 17:40:19.84 [8624:32680:0306/174019.840:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 17:40:19.84 [8624:26648:0306/174019.840:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 17:40:22.92 [8624:32680:0306/174022.927:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 17:50:19.85 [8624:26648:0306/175019.858:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 17:50:19.85 [8624:32680:0306/175019.858:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 17:50:22.93 [8624:32680:0306/175022.935:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 17:59:44.67 [8624:32680:0306/175944.658:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 18:00:19.87 [8624:26648:0306/180019.871:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 18:00:19.87 [8624:32680:0306/180019.871:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 18:09:44.68 [8624:32680:0306/180944.679:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 18:10:19.88 [8624:26648:0306/181019.881:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 18:10:19.88 [8624:32680:0306/181019.881:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 18:19:44.69 [8624:32680:0306/181944.698:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 18:20:19.89 [8624:26648:0306/182019.894:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 06, 2020 18:20:19.89 [8624:32680:0306/182019.894:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 18:29:44.70 [8624:32680:0306/182944.706:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 06, 2020 18:30:19.91 [8624:32680:0306/183019.913:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 06, 2020 18:30:19.91 [8624:26648:0306/183019.913:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+
+Mar 07, 2020 12:33:43.33 NEW SESSION
+Mar 07, 2020 12:33:43.33 [13228:34472:0307/123343.331:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2020 12:33:43.36 [13228:34472:0307/123343.334:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 07, 2020 12:34:04.20 [13228:34472:0307/123404.205:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 07, 2020 12:34:06.20 [13228:34472:0307/123406.203:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2020 12:34:39.25 [13228:26968:0307/123439.254:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 07, 2020 12:34:55.22 [13228:34472:0307/123455.228:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2020 12:35:04.18 [13228:34472:0307/123504.186:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 07, 2020 12:35:08.47 [13228:26968:0307/123508.478:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 07, 2020 12:35:55.49 [13228:26968:0307/123555.492:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 07, 2020 12:36:15.10 [13228:26968:0307/123615.100:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Mar 07, 2020 12:36:15.66 [13228:26968:0307/123615.664:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Mar 07, 2020 12:36:35.29 [13228:34472:0307/123635.296:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 07, 2020 12:36:39.23 [13228:34472:0307/123639.233:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2020 12:37:31.64 [13228:26968:0307/123731.644:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 07, 2020 12:39:42.77 [13228:34472:0307/123942.775:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2020 12:39:50.54 [13228:34472:0307/123950.539:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 07, 2020 12:41:28.75 [13228:26968:0307/124128.751:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 07, 2020 12:45:45.16 [13228:34472:0307/124545.160:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 07, 2020 12:46:00.00 [13228:34472:0307/124600.005:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2020 12:48:48.36 [13228:26968:0307/124848.363:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 07, 2020 12:56:41.86 [3176:2948:0307/125641.866:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2020 12:56:41.87 [3176:2948:0307/125641.870:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 07, 2020 12:57:10.42 [3176:2948:0307/125710.422:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2020 12:57:11.08 [3176:2948:0307/125711.082:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 07, 2020 12:57:56.65 [3176:2948:0307/125756.656:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 07, 2020 12:58:00.86 [3176:2948:0307/125800.860:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2020 12:59:23.16 [3176:2948:0307/125923.159:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2020 12:59:50.31 [3176:2948:0307/125950.309:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 07, 2020 13:02:08.67 [3176:2948:0307/130208.670:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2020 13:03:46.52 [3176:2948:0307/130346.529:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Mar 07, 2020 13:03:46.58 [3176:2948:0307/130346.582:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Mar 07, 2020 13:03:53.81 [3176:2948:0307/130353.810:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -109
+Mar 07, 2020 13:03:55.84 [3176:2948:0307/130355.842:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2020 13:22:40.81 [3176:10012:0307/132240.810:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:22:41.81 [3176:10012:0307/132241.813:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:22:42.82 [3176:10012:0307/132242.828:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:22:43.85 [3176:10012:0307/132243.852:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:22:45.54 [3176:10012:0307/132245.545:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:22:49.45 [3176:10012:0307/132249.451:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:22:50.48 [3176:10012:0307/132250.486:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:22:56.86 [3176:10012:0307/132256.867:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:22:59.46 [3176:10012:0307/132259.463:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:23:02.03 [3176:10012:0307/132302.031:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:23:04.07 [3176:10012:0307/132304.076:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:23:06.58 [3176:10012:0307/132306.585:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:23:14.01 [3176:10012:0307/132314.015:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:23:28.81 [3176:10012:0307/132328.811:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:23:38.80 [3176:10012:0307/132338.803:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:23:45.98 [3176:10012:0307/132345.981:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:23:50.90 [3176:10012:0307/132350.900:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:23:53.01 [3176:10012:0307/132353.017:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:23:56.08 [3176:10012:0307/132356.084:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:24:05.66 [3176:10012:0307/132405.662:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:24:20.33 [3176:10012:0307/132420.338:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:24:24.56 [3176:10012:0307/132424.565:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+Mar 07, 2020 13:24:25.66 [3176:10012:0307/132425.665:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 3.101 s for first_image_paint 3.02 s
+
+Mar 22, 2020 12:31:37.70 NEW SESSION
+Mar 22, 2020 12:31:37.70 _create_dc_and_bitmap: The operation completed successfully.
+Mar 22, 2020 12:31:37.71 
+Mar 22, 2020 13:16:39.74 _create_dc_and_bitmap: The operation completed successfully.
+Mar 22, 2020 13:16:39.83 
+Mar 22, 2020 13:28:58.51 [Parent 2580, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+Mar 22, 2020 13:28:58.60 [Parent 2580, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+Mar 22, 2020 13:30:42.96 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9743a400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 13:30:42.96 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9743a400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 13:30:42.98 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9743a400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 13:30:42.99 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9743a400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 13:30:43.00 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9743a400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 13:30:43.00 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9743a400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 13:37:51.48 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b92d50000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 13:37:51.50 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b92d50000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 13:37:51.54 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b92d50000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:13:45.96 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b992c6c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:13:45.99 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b992c6c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:22:45.57 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb4400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:22:45.57 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb4400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:22:45.58 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb4400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:22:45.61 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb4400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:22:45.61 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb4400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:22:45.63 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb4400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:22:45.65 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb4400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:22:45.65 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb4400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:24:56.66 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb6800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:24:56.69 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb6800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:24:56.74 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb6800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:24:56.77 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb6800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:24:56.81 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb6800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:24:56.86 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb6800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:24:56.87 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb6800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:27:10.26 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:27:10.27 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:27:10.29 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:27:10.30 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:27:10.31 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:27:10.33 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:27:10.34 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:27:10.36 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:27:10.37 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:27:10.38 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:27:10.40 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:27:10.42 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:27:10.43 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:27:10.44 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:27:10.46 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9acb7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:31:43.68 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9baa7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:31:43.72 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9baa7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:36:22.74 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be53800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:36:22.78 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be53800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:36:22.83 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be53800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:36:22.86 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be53800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:36:22.90 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be53800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:38:36.34 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be56800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:38:36.35 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be56800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:38:36.36 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be56800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:38:36.37 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be56800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:38:36.39 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be56800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:38:36.40 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be56800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:38:36.42 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be56800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:38:36.43 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be56800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:38:36.44 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be56800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:38:36.47 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be56800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:38:36.47 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be56800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 14:38:36.49 [Child 18856, MediaDecoderStateMachine #1] WARNING: Decoder=17b9be56800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 15:01:39.82 [Child 18856, MediaDecoderStateMachine #2] WARNING: Decoder=17b979d7c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+Mar 22, 2020 15:01:40.11 [Child 18856, MediaDecoderStateMachine #2] WARNING: Decoder=17b979d7c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+
+Mar 24, 2020 24:56:54.43 NEW SESSION
+Mar 24, 2020 24:56:54.57 [Parent 4584, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+Mar 24, 2020 24:56:54.64 [Parent 4584, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+Mar 24, 2020 01:01:03.24 [Parent 4584, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+Mar 24, 2020 01:01:03.38 [Parent 4584, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+Mar 24, 2020 01:10:29.40 [Parent 4584, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+Mar 24, 2020 01:10:29.52 [Parent 4584, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+Mar 24, 2020 01:15:39.20 
+Mar 24, 2020 01:15:39.20 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 24, 2020 01:15:39.40 
+Mar 24, 2020 01:15:44.61 
+Mar 24, 2020 01:15:44.61 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 24, 2020 01:15:44.61 
+Mar 24, 2020 01:15:45.76 
+Mar 24, 2020 01:15:45.76 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 24, 2020 01:15:45.76 
+
+Mar 24, 2020 11:44:13.69 NEW SESSION
+Mar 24, 2020 11:44:13.69 [Parent 22096, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+Mar 24, 2020 15:17:14.06 [Parent 22096, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+Mar 24, 2020 15:17:15.45 [Parent 22096, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+Mar 25, 2020 01:53:09.04 NEW SESSION
+Mar 25, 2020 01:53:09.34 
+Mar 25, 2020 01:53:09.77 ###!!! [Parent][MessageChannel] Error: (msgtype=0x370045,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+Mar 25, 2020 01:53:09.77 
+Mar 25, 2020 01:53:10.42 [Parent 924, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+Mar 25, 2020 01:53:11.86 
+Mar 25, 2020 01:53:11.86 ###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+Mar 25, 2020 01:53:11.86 
+Mar 25, 2020 01:53:11.86 
+Mar 25, 2020 01:53:11.86 ###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+Mar 25, 2020 01:53:11.86 
+Mar 25, 2020 01:53:11.87 
+Mar 25, 2020 01:53:11.87 ###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+Mar 25, 2020 01:53:11.87 
+Mar 25, 2020 01:53:11.87 
+Mar 25, 2020 01:53:11.87 ###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+Mar 25, 2020 01:53:11.87 
+Mar 25, 2020 01:53:11.87 
+Mar 25, 2020 01:53:11.87 ###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+Mar 25, 2020 01:53:11.87 
+Mar 25, 2020 01:53:11.87 
+Mar 25, 2020 01:53:11.87 ###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+Mar 25, 2020 01:53:11.87 
+Mar 25, 2020 01:53:11.87 
+Mar 25, 2020 01:53:11.87 ###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+Mar 25, 2020 01:53:11.87 
+Mar 25, 2020 01:53:11.88 
+Mar 25, 2020 01:53:11.88 ###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+Mar 25, 2020 01:53:11.88 
+Mar 25, 2020 01:53:11.88 
+Mar 25, 2020 01:53:11.88 ###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+Mar 25, 2020 01:53:11.88 
+Mar 25, 2020 01:53:11.88 
+Mar 25, 2020 01:53:11.88 ###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+Mar 25, 2020 01:53:11.88 
+Mar 25, 2020 01:53:11.88 
+Mar 25, 2020 01:53:11.88 ###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+Mar 25, 2020 01:53:11.89 
+Mar 25, 2020 01:53:11.89 
+Mar 25, 2020 01:53:11.89 ###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+Mar 25, 2020 01:53:11.89 
+Mar 25, 2020 01:53:11.89 
+Mar 25, 2020 01:53:11.89 ###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+Mar 25, 2020 01:53:11.89 
+Mar 25, 2020 01:53:31.83 
+Mar 25, 2020 01:53:31.83 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 25, 2020 01:53:31.83 
+
+Mar 25, 2020 19:49:03.11 NEW SESSION
+Mar 25, 2020 19:49:03.11 [21824:22992:0325/194903.115:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2020 19:49:23.17 [21824:23324:0325/194923.178:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Mar 25, 2020 19:49:26.19 [21824:22992:0325/194926.198:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2020 19:50:16.50 [21824:22992:0325/195016.500:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2020 19:51:45.35 [21824:22992:0325/195145.329:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2020 19:55:02.34 [21824:22992:0325/195502.340:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2020 20:01:16.51 [21824:23324:0325/200116.517:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 25, 2020 20:01:42.59 [21824:23324:0325/200142.597:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 25, 2020 20:01:54.13 [21824:22992:0325/200154.130:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2020 20:02:35.23 [21824:23324:0325/200235.229:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 25, 2020 20:04:16.21 [21824:23324:0325/200416.214:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 25, 2020 20:06:57.24 [21824:23324:0325/200657.248:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 25, 2020 20:11:54.13 [21824:22992:0325/201154.134:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2020 20:14:15.36 [21824:23324:0325/201415.361:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 25, 2020 20:21:54.13 [21824:22992:0325/202154.137:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2020 20:24:15.36 [21824:23324:0325/202415.368:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 25, 2020 20:25:35.19 [21824:22992:0325/202535.198:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 26, 2020 02:22:30.54 [21824:22992:0326/022230.546:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Mar 26, 2020 02:22:30.54 [21824:23324:0326/022230.546:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 26, 2020 02:22:33.27 [21824:22992:0326/022233.277:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 26, 2020 02:32:30.56 [21824:23324:0326/023230.564:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 26, 2020 02:32:33.28 [21824:22992:0326/023233.284:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 26, 2020 02:42:30.58 [21824:23324:0326/024230.586:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 26, 2020 02:42:33.30 [21824:22992:0326/024233.297:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 26, 2020 02:52:30.59 [21824:23324:0326/025230.590:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 26, 2020 02:52:33.31 [21824:22992:0326/025233.314:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+Mar 31, 2020 20:12:43.23 NEW SESSION
+Mar 31, 2020 20:12:43.23 [11860:8536:0331/201243.209:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2020 20:13:09.36 [11860:8536:0331/201309.361:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2020 20:14:03.65 [11860:8536:0331/201403.656:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2020 20:15:18.85 [11860:16412:0331/201518.859:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 31, 2020 20:15:39.91 [11860:16412:0331/201539.910:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 31, 2020 20:15:46.10 [11860:8536:0331/201546.108:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2020 20:16:20.54 [11860:16412:0331/201620.540:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 31, 2020 20:17:58.59 [11860:16412:0331/201758.593:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 31, 2020 20:18:29.46 [11860:8536:0331/201829.467:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2020 20:21:40.99 [11860:16412:0331/202140.997:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 31, 2020 20:24:09.00 [11860:8536:0331/202409.007:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2020 20:36:54.59 [11860:16412:0331/203654.593:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 31, 2020 20:36:54.60 [11860:8536:0331/203654.602:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2020 20:36:59.54 [11860:8536:0331/203659.547:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2020 20:46:54.60 [11860:16412:0331/204654.599:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 31, 2020 20:46:59.58 [11860:8536:0331/204659.587:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2020 20:56:56.17 [11860:16412:0331/205656.174:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 31, 2020 20:56:59.59 [11860:8536:0331/205659.590:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2020 21:06:56.18 [11860:16412:0331/210656.187:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 31, 2020 21:06:59.61 [11860:8536:0331/210659.614:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2020 21:16:56.20 [11860:16412:0331/211656.206:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 31, 2020 21:16:59.62 [11860:8536:0331/211659.621:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2020 21:26:56.21 [11860:16412:0331/212656.214:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 31, 2020 21:26:59.63 [11860:8536:0331/212659.634:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2020 21:36:56.22 [11860:16412:0331/213656.221:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 31, 2020 21:36:59.65 [11860:8536:0331/213659.653:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+Apr 02, 2020 12:27:23.34 NEW SESSION
+Apr 02, 2020 12:27:23.34 [9536:9320:0402/122723.336:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 12:27:48.72 [9536:9320:0402/122748.727:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 12:28:30.23 [9536:9320:0402/122830.235:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 12:30:27.96 [9536:9320:0402/123027.967:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 12:33:13.59 [9536:9320:0402/123313.589:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 12:39:24.45 [9536:20060:0402/123924.456:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 02, 2020 12:39:48.53 [9536:20060:0402/123948.537:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 02, 2020 12:40:25.80 [9536:9320:0402/124025.800:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 12:40:39.48 [9536:20060:0402/124039.483:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 02, 2020 12:42:37.36 [9536:20060:0402/124237.359:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 02, 2020 12:46:18.37 [9536:20060:0402/124618.369:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 02, 2020 12:56:24.83 [9536:20060:0402/125624.830:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 02, 2020 12:56:27.10 [9536:9320:0402/125627.103:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 13:50:38.11 [9536:9320:0402/135037.861:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 02, 2020 15:12:46.60 [9536:20060:0402/151246.609:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 02, 2020 15:12:52.63 [9536:9320:0402/151252.631:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 02, 2020 15:13:13.96 [9536:9320:0402/151313.962:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 02, 2020 15:13:15.09 [9536:20060:0402/151315.091:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 02, 2020 15:13:16.15 [9536:9320:0402/151316.158:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 15:20:41.57 [9536:9320:0402/152041.572:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 15:20:53.53 [9536:20060:0402/152053.537:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 02, 2020 15:53:57.12 [9536:9320:0402/155357.122:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 02, 2020 16:24:45.44 [9536:20060:0402/162445.444:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 02, 2020 16:24:51.56 [9536:9320:0402/162450.632:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 16:24:58.48 [9536:9320:0402/162458.488:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 16:25:15.17 [9536:20060:0402/162515.170:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 02, 2020 16:25:43.28 [9536:9320:0402/162543.283:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 16:38:51.77 [9536:9320:0402/163851.778:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 02, 2020 17:14:12.74 [9536:9320:0402/171412.748:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 17:14:42.32 [9536:9320:0402/171442.322:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 17:15:34.31 [9536:9320:0402/171534.310:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 17:17:01.63 [9536:9320:0402/171701.631:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 17:20:36.59 [9536:9320:0402/172036.593:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 17:34:17.32 [9536:9320:0402/173417.320:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 02, 2020 19:17:54.02 [9536:9320:0402/191754.024:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 19:17:54.32 [9536:20060:0402/191754.321:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 02, 2020 19:17:57.17 [9536:2912:0402/191757.179:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Apr 02, 2020 19:18:14.88 [9536:20060:0402/191814.880:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 02, 2020 19:18:18.80 [9536:9320:0402/191818.806:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2020 19:18:31.90 [9536:20060:0402/191831.901:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Apr 02, 2020 19:18:42.21 [9536:2912:0402/191842.215:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Apr 02, 2020 19:19:05.35 [9536:20060:0402/191905.355:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 02, 2020 19:19:08.50 [9536:9320:0402/191908.503:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+Apr 05, 2020 17:13:16.53 NEW SESSION
+Apr 05, 2020 17:13:16.53 [19700:8908:0405/171316.502:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2020 17:13:39.89 [19700:8908:0405/171339.894:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2020 17:14:20.29 [19700:8908:0405/171420.295:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2020 17:16:09.42 [19700:8908:0405/171609.428:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2020 17:19:36.92 [19700:8908:0405/171936.926:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2020 17:23:19.87 [19700:16488:0405/172319.874:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 05, 2020 17:23:40.84 [19700:16488:0405/172340.842:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 05, 2020 17:24:38.86 [19700:16488:0405/172438.859:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 05, 2020 17:25:12.26 [19700:8908:0405/172512.268:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2020 17:26:27.90 [19700:16488:0405/172627.906:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 05, 2020 17:30:26.69 [19700:16488:0405/173026.697:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 05, 2020 17:35:12.37 [19700:8908:0405/173512.370:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2020 17:36:37.80 [19700:16488:0405/173637.807:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 05, 2020 17:45:12.37 [19700:8908:0405/174512.374:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2020 17:46:37.81 [19700:16488:0405/174637.812:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 05, 2020 17:55:12.37 [19700:8908:0405/175512.377:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2020 17:56:37.81 [19700:16488:0405/175637.818:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 05, 2020 18:05:12.39 [19700:8908:0405/180512.396:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2020 18:06:37.96 [19700:16488:0405/180637.966:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 05, 2020 18:15:44.17 [19700:8908:0405/181544.175:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2020 18:33:11.08 [19700:16488:0405/183311.081:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 05, 2020 18:33:11.09 [19700:8908:0405/183311.099:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2020 18:43:11.09 [19700:16488:0405/184311.094:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 05, 2020 18:43:11.12 [19700:8908:0405/184311.125:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2020 19:25:20.96 [19700:8908:0405/192520.967:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 05, 2020 19:25:20.96 [19700:16488:0405/192520.967:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 05, 2020 19:25:20.98 [19700:8908:0405/192520.983:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2020 19:25:44.71 [19700:8908:0405/192544.718:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 05, 2020 19:29:47.56 [19700:8908:0405/192947.566:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+Apr 07, 2020 18:23:38.17 NEW SESSION
+Apr 07, 2020 18:23:38.17 [9748:13012:0407/182338.141:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2020 18:23:53.86 [9748:8832:0407/182353.868:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Apr 07, 2020 18:24:05.42 [9748:13012:0407/182405.424:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2020 18:24:38.11 [9748:8832:0407/182438.116:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 07, 2020 18:24:56.99 [9748:13012:0407/182456.989:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2020 18:25:07.87 [9748:8832:0407/182507.872:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 07, 2020 18:26:00.18 [9748:8832:0407/182600.181:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 07, 2020 19:46:51.89 [9748:13012:0407/194651.783:ERROR:mcs_client.cc(758)] Received close command, resetting connection.
+Apr 07, 2020 19:54:50.71 [9748:13012:0407/195450.713:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 07, 2020 20:06:43.45 [9748:13012:0407/200643.453:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 07, 2020 20:06:52.22 [9748:13012:0407/200652.220:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 07, 2020 20:06:54.38 [9748:13012:0407/200654.388:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2020 20:07:15.08 [9748:13012:0407/200715.085:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 07, 2020 20:07:26.57 [9748:13012:0407/200726.579:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 07, 2020 20:07:38.09 [9748:13012:0407/200738.076:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 07, 2020 20:07:50.80 [9748:13012:0407/200750.804:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 07, 2020 20:08:02.18 [9748:13012:0407/200802.188:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 07, 2020 20:08:04.37 [9748:13012:0407/200804.372:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+Apr 08, 2020 24:09:31.86 NEW SESSION
+Apr 08, 2020 24:09:31.86 [9616:8724:0408/000931.849:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 08, 2020 24:32:09.64 [9616:8724:0408/003209.644:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2020 24:32:09.97 [9616:8724:0408/003209.974:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2020 24:33:01.51 [9616:8724:0408/003301.511:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+Apr 11, 2020 18:05:19.12 NEW SESSION
+Apr 11, 2020 18:05:19.12 [5056:22816:0411/180510.637:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2020 18:05:32.96 [5056:22816:0411/180532.967:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2020 18:06:30.54 [5056:22816:0411/180630.543:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2020 18:08:10.60 [5056:22816:0411/180810.606:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2020 18:12:04.09 [5056:22816:0411/181204.091:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2020 18:18:26.22 [5056:22816:0411/181826.221:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2020 18:24:45.97 [2552:24224:0411/182445.970:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2020 18:25:13.29 [2552:24224:0411/182513.290:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2020 18:26:07.70 [2552:24224:0411/182607.698:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2020 18:40:30.19 [2552:24224:0411/184030.193:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2020 18:40:53.15 [2552:24224:0411/184053.158:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2020 18:41:52.37 [2552:24224:0411/184152.377:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2020 19:21:29.09 [23620:10952:0411/192123.239:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+
+Apr 12, 2020 10:11:53.22 NEW SESSION
+Apr 12, 2020 10:11:53.22 [10824:9876:0412/101153.219:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:11:53.25 [10824:9876:0412/101153.253:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 12, 2020 10:11:55.40 [10824:9876:0412/101155.407:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:12:16.49 [10824:9876:0412/101216.491:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:12:28.38 [10824:9876:0412/101228.382:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:12:28.41 [10824:9876:0412/101228.410:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 12, 2020 10:12:28.43 [10824:18216:0412/101228.430:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Apr 12, 2020 10:12:30.55 [10824:9876:0412/101230.551:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:12:51.74 [10824:9876:0412/101251.742:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:12:53.97 [10824:9876:0412/101253.975:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:13:14.94 [10824:9876:0412/101314.948:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:13:26.69 [10824:9876:0412/101326.691:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:13:28.87 [10824:9876:0412/101328.872:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:13:28.87 [10824:9876:0412/101328.875:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 12, 2020 10:14:01.37 [10824:9876:0412/101401.376:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:14:12.87 [10824:9876:0412/101412.876:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:14:24.52 [10824:9876:0412/101424.520:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:14:24.54 [10824:18216:0412/101424.545:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 12, 2020 10:14:26.69 [10824:9876:0412/101426.690:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:14:47.84 [10824:9876:0412/101447.840:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:14:47.86 [10824:18216:0412/101447.862:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 12, 2020 10:14:59.43 [10824:9876:0412/101459.437:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:15:11.01 [10824:9876:0412/101511.014:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:15:11.04 [10824:9876:0412/101511.039:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 12, 2020 10:15:22.67 [10824:9876:0412/101522.677:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:15:24.86 [10824:9876:0412/101524.862:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:15:41.90 [10824:18216:0412/101541.899:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 12, 2020 10:16:08.44 [10824:9876:0412/101608.447:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:16:10.62 [10824:9876:0412/101610.627:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:16:31.83 [10824:9876:0412/101631.831:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:16:43.56 [10824:9876:0412/101643.567:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:16:55.25 [10824:9876:0412/101655.257:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:17:06.97 [10824:9876:0412/101706.973:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:17:18.81 [10824:9876:0412/101718.815:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:17:20.99 [10824:9876:0412/101720.996:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:17:33.38 [10824:18216:0412/101733.388:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 12, 2020 10:18:39.27 [10824:9876:0412/101839.276:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:18:50.88 [10824:9876:0412/101850.885:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:18:50.90 [10824:9876:0412/101850.906:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 12, 2020 10:19:02.65 [10824:9876:0412/101902.655:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:19:04.83 [10824:9876:0412/101904.831:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:19:25.68 [10824:9876:0412/101925.687:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:19:37.37 [10824:9876:0412/101937.378:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:19:49.00 [10824:9876:0412/101949.000:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:19:51.18 [10824:9876:0412/101951.180:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:20:23.52 [10824:9876:0412/102023.527:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:20:25.71 [10824:9876:0412/102025.712:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:20:46.52 [10824:9876:0412/102046.521:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:20:48.68 [10824:9876:0412/102048.684:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:21:09.57 [10824:9876:0412/102109.579:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:21:21.24 [10824:9876:0412/102121.240:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:21:21.28 [10824:18216:0412/102121.285:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 12, 2020 10:21:32.98 [10824:9876:0412/102132.982:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:21:44.53 [10824:9876:0412/102144.533:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:21:56.24 [10824:9876:0412/102156.242:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:22:08.79 [10824:9876:0412/102208.793:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:22:20.55 [10824:9876:0412/102220.553:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:22:32.14 [10824:9876:0412/102232.143:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:22:43.95 [10824:9876:0412/102243.957:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:22:57.56 [10824:9876:0412/102257.563:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:23:09.30 [10824:9876:0412/102309.302:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:23:22.89 [10824:9876:0412/102322.898:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:23:34.62 [10824:9876:0412/102334.624:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:23:46.32 [10824:9876:0412/102346.320:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:23:48.50 [10824:9876:0412/102348.504:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:24:09.47 [10824:9876:0412/102409.478:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:24:11.67 [10824:9876:0412/102411.671:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:24:32.47 [10824:9876:0412/102432.469:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:24:44.59 [10824:9876:0412/102444.596:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:24:56.20 [10824:9876:0412/102456.199:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:25:07.98 [10824:9876:0412/102507.988:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:25:19.74 [10824:9876:0412/102519.747:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:25:19.75 [10824:9876:0412/102519.758:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 12, 2020 10:25:31.31 [10824:9876:0412/102531.311:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:25:42.88 [10824:9876:0412/102542.881:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:25:54.63 [10824:9876:0412/102554.633:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:25:56.84 [10824:9876:0412/102556.839:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:26:29.58 [10824:9876:0412/102629.580:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:26:41.31 [10824:9876:0412/102641.317:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:26:52.95 [10824:9876:0412/102652.950:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:27:04.82 [10824:9876:0412/102704.828:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:27:07.07 [10824:9876:0412/102707.076:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:27:28.09 [10824:9876:0412/102728.097:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:27:30.28 [10824:9876:0412/102730.285:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:27:51.14 [10824:9876:0412/102751.147:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:27:51.17 [10824:18216:0412/102751.170:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 12, 2020 10:28:02.79 [10824:9876:0412/102802.795:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:28:14.37 [10824:9876:0412/102814.376:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:28:25.95 [10824:9876:0412/102825.956:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:28:37.65 [10824:9876:0412/102837.651:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:28:49.26 [10824:9876:0412/102849.262:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:29:00.85 [10824:9876:0412/102900.859:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:29:12.63 [10824:9876:0412/102912.638:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:29:24.28 [10824:9876:0412/102924.279:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:29:35.82 [10824:9876:0412/102935.824:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:29:37.99 [10824:9876:0412/102937.994:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:30:10.35 [10824:9876:0412/103010.351:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:30:22.08 [10824:9876:0412/103022.084:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:30:24.27 [10824:9876:0412/103024.273:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:30:45.08 [10824:9876:0412/103045.086:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:30:47.28 [10824:9876:0412/103047.283:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:31:20.01 [10824:9876:0412/103120.017:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:31:22.21 [10824:9876:0412/103122.213:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:31:42.98 [10824:9876:0412/103142.987:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:31:54.51 [10824:9876:0412/103154.513:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:32:06.32 [10824:9876:0412/103206.323:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:32:08.53 [10824:9876:0412/103208.538:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:32:29.70 [10824:9876:0412/103229.709:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:32:31.91 [10824:9876:0412/103231.912:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:32:52.82 [10824:9876:0412/103252.820:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:33:04.44 [10824:9876:0412/103304.447:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:33:16.20 [10824:9876:0412/103316.206:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:33:27.87 [10824:9876:0412/103327.878:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:33:39.56 [10824:9876:0412/103339.564:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:33:41.75 [10824:9876:0412/103341.754:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:34:37.14 [10824:9876:0412/103437.141:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:34:39.31 [10824:9876:0412/103439.316:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:35:00.20 [10824:9876:0412/103500.207:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:35:11.96 [10824:9876:0412/103511.960:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:35:23.64 [10824:9876:0412/103523.646:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:35:23.67 [10824:9876:0412/103523.677:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Apr 12, 2020 10:35:35.43 [10824:9876:0412/103535.434:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:35:47.19 [10824:9876:0412/103547.191:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:35:59.06 [10824:9876:0412/103559.060:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:36:10.90 [10824:9876:0412/103610.904:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:36:22.77 [10824:9876:0412/103622.777:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:36:24.98 [10824:9876:0412/103624.989:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 10:36:36.55 [10824:9876:0412/103636.551:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 10:36:42.50 [10824:9876:0412/103642.504:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 12:49:53.07 [10824:18216:0412/124953.073:ERROR:CONSOLE(764)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://mail.google.com') does not match the recipient window's origin ('chrome-search://local-ntp').", source: chrome-search://most-visited/single.js (764)
+Apr 12, 2020 13:08:23.18 [10824:9876:0412/130823.183:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 12, 2020 13:10:26.20 [10824:9876:0412/131026.204:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 12, 2020 13:22:14.46 [10824:9876:0412/132214.468:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 12, 2020 13:22:23.22 [10824:9876:0412/132223.228:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:22:34.59 [10824:9876:0412/132234.598:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:22:36.85 [10824:9876:0412/132236.850:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:22:58.12 [10824:9876:0412/132258.121:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:23:00.14 [10824:9876:0412/132300.147:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:23:21.35 [10824:9876:0412/132321.350:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:23:23.52 [10824:9876:0412/132323.525:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:23:49.20 [10824:9876:0412/132349.208:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:24:01.66 [10824:9876:0412/132401.665:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:24:03.87 [10824:9876:0412/132403.869:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:24:25.01 [10824:9876:0412/132425.014:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:24:27.19 [10824:9876:0412/132427.197:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:25:27.53 [10824:9876:0412/132527.535:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:25:29.71 [10824:9876:0412/132529.716:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:26:48.26 [10824:9876:0412/132648.265:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:26:50.51 [10824:9876:0412/132650.511:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:27:46.17 [10824:9876:0412/132746.173:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:27:48.35 [10824:9876:0412/132748.350:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:36:04.01 [10824:9876:0412/133604.016:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:36:13.50 [10824:9876:0412/133613.505:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:36:22.35 [10824:9876:0412/133622.351:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:36:34.06 [10824:9876:0412/133634.063:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:36:41.98 [10824:9876:0412/133641.986:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:36:51.69 [10824:9876:0412/133651.694:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:37:01.50 [10824:9876:0412/133701.509:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:37:09.61 [10824:9876:0412/133709.609:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:37:22.21 [10824:9876:0412/133722.211:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:37:37.47 [10824:9876:0412/133737.472:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:37:39.68 [10824:9876:0412/133739.687:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:38:01.05 [10824:9876:0412/133801.056:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:38:14.94 [10824:9876:0412/133814.948:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:38:26.73 [10824:9876:0412/133826.738:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:38:38.78 [10824:9876:0412/133838.788:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:38:40.98 [10824:9876:0412/133840.988:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:39:02.29 [10824:9876:0412/133902.292:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:39:04.49 [10824:9876:0412/133904.496:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:39:25.53 [10824:9876:0412/133925.539:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:39:37.30 [10824:9876:0412/133937.305:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:39:49.02 [10824:9876:0412/133949.027:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:40:00.92 [10824:9876:0412/134000.924:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:40:12.68 [10824:9876:0412/134012.687:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:40:24.43 [10824:9876:0412/134024.439:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:40:36.78 [10824:9876:0412/134036.781:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:40:48.44 [10824:9876:0412/134048.443:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:41:00.58 [10824:9876:0412/134100.583:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:41:02.75 [10824:9876:0412/134102.756:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:41:23.86 [10824:9876:0412/134123.860:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:41:35.61 [10824:9876:0412/134135.612:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:41:47.32 [10824:9876:0412/134147.323:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:41:49.51 [10824:9876:0412/134149.518:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:42:10.78 [10824:9876:0412/134210.787:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:42:22.56 [10824:9876:0412/134222.568:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:42:24.80 [10824:9876:0412/134224.804:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:42:45.95 [10824:9876:0412/134245.952:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:42:59.14 [10824:9876:0412/134259.141:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:43:01.17 [10824:9876:0412/134301.179:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:44:25.27 [10824:9876:0412/134425.278:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 13:44:27.45 [10824:9876:0412/134427.450:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 13:45:12.75 [10824:9876:0412/134512.755:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 17:46:32.70 [10824:18216:0412/174632.702:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 12, 2020 17:46:35.32 [10824:9876:0412/174635.323:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 12, 2020 17:46:35.94 [10824:6068:0412/174635.948:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Apr 12, 2020 17:46:37.59 [10824:9876:0412/174637.590:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 17:46:56.89 [10824:18216:0412/174656.894:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 12, 2020 17:47:20.95 [10824:6068:0412/174720.957:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Apr 12, 2020 17:47:56.89 [10824:18216:0412/174756.890:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 12, 2020 17:48:30.39 [10824:6068:0412/174830.382:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Apr 12, 2020 17:49:24.36 [10824:18216:0412/174924.364:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 12, 2020 17:51:20.40 [10824:6068:0412/175120.406:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Apr 12, 2020 17:52:37.39 [10824:18216:0412/175237.394:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 12, 2020 17:55:35.42 [10824:6068:0412/175535.423:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Apr 12, 2020 17:56:37.59 [10824:9876:0412/175637.596:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 17:58:43.43 [10824:18216:0412/175843.432:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 12, 2020 18:01:58.44 [10824:6068:0412/180158.442:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Apr 12, 2020 18:06:37.60 [10824:9876:0412/180637.602:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 18:08:43.43 [10824:18216:0412/180843.439:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 12, 2020 18:11:58.45 [10824:6068:0412/181158.455:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Apr 12, 2020 18:16:37.60 [10824:9876:0412/181637.605:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 18:18:43.44 [10824:18216:0412/181843.444:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 12, 2020 18:27:56.67 [10824:9876:0412/182756.671:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2020 18:28:04.75 [10824:6068:0412/182804.750:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+
+Apr 18, 2020 20:25:40.55 NEW SESSION
+Apr 18, 2020 20:25:40.55 [22352:21408:0418/202539.467:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 18, 2020 20:32:36.62 [22352:21408:0418/203236.621:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 18, 2020 20:37:02.97 [22352:21408:0418/203702.894:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 18, 2020 21:08:23.92 [22352:21408:0418/210823.928:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 18, 2020 21:08:29.70 [22352:25036:0418/210829.702:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 18, 2020 21:34:49.07 [22352:21408:0418/213448.939:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 18, 2020 21:35:00.06 [22352:21408:0418/213500.067:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Apr 18, 2020 22:00:08.07 [22352:21408:0418/220007.917:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 18, 2020 23:11:54.25 [22352:21408:0418/231153.990:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 19, 2020 24:41:36.86 [22352:21408:0419/004136.861:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Apr 19, 2020 24:42:05.77 [22352:25036:0419/004205.517:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 19, 2020 24:42:37.06 [22352:21408:0419/004237.064:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Apr 19, 2020 24:42:42.18 [22352:21408:0419/004242.189:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2020 24:43:02.59 [22352:25036:0419/004302.590:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 19, 2020 24:43:26.51 [22352:21408:0419/004326.514:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2020 24:43:45.01 [22352:25036:0419/004345.017:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Apr 19, 2020 24:44:50.74 [22352:21408:0419/004450.747:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Apr 19, 2020 24:45:50.97 [22352:25036:0419/004550.972:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+
+May 09, 2020 17:30:09.94 NEW SESSION
+May 09, 2020 17:30:09.94 [1188:11092:0509/173009.870:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 09, 2020 19:05:30.67 [1188:6752:0509/190530.535:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+May 14, 2020 16:34:49.79 NEW SESSION
+May 14, 2020 16:34:49.79 [2920:19152:0514/163449.742:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 14, 2020 16:35:13.16 [2920:15536:0514/163513.165:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 14, 2020 16:35:25.85 [2920:19152:0514/163525.850:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+May 14, 2020 16:35:39.69 [2920:15536:0514/163539.698:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 14, 2020 16:36:30.76 [2920:15536:0514/163630.766:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 14, 2020 16:38:27.66 [2920:15536:0514/163827.664:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 14, 2020 16:41:27.49 [2920:15536:0514/164127.490:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 14, 2020 16:49:29.22 [2920:19152:0514/164929.220:ERROR:CONSOLE(764)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://mail.google.com') does not match the recipient window's origin ('chrome-search://local-ntp').", source: chrome-search://most-visited/single.js (764)
+May 14, 2020 18:47:47.59 [2920:15536:0514/184747.266:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 14, 2020 18:48:13.89 [2920:15536:0514/184813.895:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 14, 2020 18:48:59.64 [2920:15536:0514/184859.641:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 14, 2020 18:50:33.96 [2920:15536:0514/185033.962:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 14, 2020 18:54:00.33 [2920:15536:0514/185400.336:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+May 15, 2020 21:50:42.75 NEW SESSION
+May 15, 2020 21:50:42.75 [18752:18732:0515/215042.535:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 15, 2020 21:52:05.42 [18752:18732:0515/215205.422:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+May 15, 2020 21:52:18.98 [18752:9456:0515/215218.988:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 15, 2020 21:52:19.04 [18752:9456:0515/215219.045:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+May 15, 2020 21:52:19.04 [18752:9456:0515/215219.046:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 15, 2020 21:52:19.04 [18752:9456:0515/215219.046:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 15, 2020 21:52:19.05 [18752:9456:0515/215219.046:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 15, 2020 21:52:19.05 [18752:9456:0515/215219.047:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 15, 2020 21:52:49.07 [18752:9456:0515/215249.078:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 15, 2020 21:52:49.07 [18752:9456:0515/215249.078:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+May 15, 2020 21:52:49.08 [18752:9456:0515/215249.078:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 15, 2020 21:52:49.08 [18752:9456:0515/215249.079:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 15, 2020 21:52:49.08 [18752:9456:0515/215249.079:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+May 15, 2020 21:52:49.08 [18752:9456:0515/215249.079:ERROR:registration_request.cc(245)] Registration URL fetching failed.
+
+May 16, 2020 13:28:17.49 NEW SESSION
+May 16, 2020 13:28:17.49 [2532:2520:0516/132817.212:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 16, 2020 13:28:36.28 [2532:12900:0516/132836.287:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 16, 2020 13:29:06.27 [2532:12900:0516/132906.272:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 16, 2020 13:29:59.15 [2532:12900:0516/132959.153:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 16, 2020 13:31:29.01 [2532:12900:0516/133129.010:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 16, 2020 13:35:06.99 [2532:12900:0516/133506.993:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 16, 2020 13:36:41.85 [2532:12900:0516/133641.855:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 16, 2020 13:42:45.22 [2532:12900:0516/134245.224:ERROR:socket_stream.cc(218)] Closing stream with result -2
+May 16, 2020 16:07:32.30 [2532:12900:0516/160732.306:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 16, 2020 16:07:33.96 [2532:12900:0516/160733.968:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 16, 2020 16:08:28.97 [2532:12900:0516/160828.976:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 16, 2020 16:10:23.35 [2532:12900:0516/161023.352:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 16, 2020 16:13:53.58 [2532:12900:0516/161353.589:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+May 16, 2020 16:21:13.91 [2532:12900:0516/162113.917:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+May 23, 2020 20:36:59.29 NEW SESSION
+May 23, 2020 20:36:59.29 [276:256:0523/203658.752:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 23, 2020 20:51:05.53 [12312:15496:0523/205105.532:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 23, 2020 21:29:41.24 [12312:15088:0523/212941.238:ERROR:socket_stream.cc(218)] Closing stream with result -2
+May 24, 2020 01:05:57.53 [12312:8672:0524/010557.531:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+May 24, 2020 01:06:00.13 [12312:15088:0524/010600.138:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+May 24, 2020 01:06:06.71 [12312:15088:0524/010606.711:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="admindash" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="main"/>
+			<item value="admindash"/>
+			<item value="Admin"/>
+			<item value="new"/>
+			<item value="body"/>
+			<item value="%"/>
+			<item value="request"/>
+			<item value="custom"/>
+		</list>
+		<list key="replacehistory">
+			<item value="change"/>
+			<item value="obj"/>
+			<item value="Dashboard"/>
+		</list>
+	</section>
+</section>

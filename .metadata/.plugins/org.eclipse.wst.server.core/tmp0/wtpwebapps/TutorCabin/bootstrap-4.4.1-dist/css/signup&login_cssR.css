@@ -1,0 +1,108 @@
+*{
+	margin:0;
+	padding: 0;
+	font-family: sans-serif;
+
+}
+#ani{
+	background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(book5.jpg);
+	background-position: absolute;
+	background-size: cover;
+	height: 600px;
+	animation-duration: 2s;
+
+}
+.container{
+	height: 100%;
+	width: 100%;
+}
+.formB{
+	width: 380px;
+	overflow: hidden;
+	height: 480px;
+	position: relative;
+	margin: 6px auto;
+	margin-top: 15px;
+	padding: 5px;
+	border-radius: 50px;
+	
+}
+.buttonB{
+	width: 300px;
+	margin: 35px auto;
+	position: relative;
+	
+	
+}
+.btn{
+	padding: 10px 30px;
+	cursor: pointer;
+	background: transparent;
+	border:0;
+	width: 110px;
+	outline: none;
+	position: relative;
+}
+#btnn{
+	top: 0;
+	left:0;
+	position: absolute;
+	width: 120px;
+	height: 100%;
+	background: #62bdd8;
+	transition: .5s;
+}
+.sub:hover{
+	opacity: 0.7;
+}
+
+.field{
+	top: 180px;
+	position: absolute;
+	width: 280px;
+	transition: .5s;
+
+}
+.if{
+	width: 130%;
+	font-weight: 100;
+	padding: 10px 0;
+	margin: 5px 0;
+	color: #ffcc80;
+	border-right: 0;
+	border-left: 0;
+	border-top: 0;
+	border-bottom: 1px solid #999;
+	outline: none;
+	background: transparent;
+}
+::placeholder{
+	color: #fff;
+}
+.sub{
+	width: 70%;
+	padding: 10px 30px;
+	cursor: pointer;
+	display: block;
+	margin-left: 60px;
+	background: linear-gradient(to right, #00bcd4,  #ffeb3b);
+	border:0;
+	outline: none;
+}
+.checkB{
+	margin: 30px 10px 30px 0;
+
+
+}
+span{
+	color: #fff;
+	font-size: 10px;
+	bottom: 68px;
+	position: absolute;
+}
+#login{
+	left:10px;
+}
+#login2{
+	left: 460px;
+}
